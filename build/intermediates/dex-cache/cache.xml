@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-7edf920e067284488e23c1495d61238b642d644e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-772e97fc74b87ba1cd43f7efebb42b303f678290.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-bf9b14226e421ea278e22a353eb5282b96bbd646.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a1b8557ed7f212fb9f2b248af6ed0791be2c2c45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\libs\ParseCrashReporting-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f42d74ec610e2961c8c8a56dffcd7485930b0e91">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.0-0a11f7335a3696baeb1c209ba4ee6c1aa1cf46e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-92f3360ea0d06122555851827a2eeb743f65289a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\libs\Parse-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5811138d4e6cb9d45030e133ef1a61b935154c3a">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.0-fd2062ec051447941778bc290d1bc32f5647a00f.jar" />
+    </item>
+
+</items>

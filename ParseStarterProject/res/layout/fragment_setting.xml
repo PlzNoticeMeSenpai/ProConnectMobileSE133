@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.11"
+            android:id="@+id/lol2">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/emaillabel"
+                android:id="@+id/textView"
+                android:textSize="32sp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:ems="10"
+                android:id="@+id/emailAddressTextField"
+                android:text="@string/exampleemail"
+                android:layout_below="@+id/textView"
+                android:layout_centerHorizontal="true" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                android:id="@+id/emailupdatebutton"
+                android:layout_below="@+id/emailAddressTextField"
+                android:layout_centerHorizontal="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/getpremiumpromotion"
+                android:id="@+id/PremiumText"
+                android:textSize="32sp"
+                android:textAlignment="center"
+                android:layout_below="@+id/emailCheckbox"
+                android:layout_centerHorizontal="true"
+                android:gravity="center" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/premiumpromotionbuttontrue"
+                android:id="@+id/subscriptionbutton"
+                android:layout_below="@+id/PremiumText"
+                android:layout_centerHorizontal="true" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/enotificationtext"
+                android:id="@+id/emailCheckbox"
+                android:checked="true"
+                android:textSize="24sp"
+                android:textAlignment="center"
+                android:layout_below="@+id/emailupdatebutton"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/passwordchangestring"
+                android:id="@+id/textView3"
+                android:textSize="32sp"
+                android:layout_below="@+id/subscriptionbutton"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pwupdateemailtext"
+                android:id="@+id/pwbutton"
+                android:layout_below="@+id/textView3"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/DeleteAccountText"
+                android:id="@+id/textView6"
+                android:textSize="32sp"
+                android:layout_below="@+id/pwbutton"
+                android:layout_alignLeft="@+id/pwText2"
+                android:layout_alignStart="@+id/pwText2" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/deleteaccbuttontext"
+                android:id="@+id/deleteaccbutton"
+                android:textColor="#ffff0007"
+                android:layout_below="@+id/pwtext1"
+                android:layout_centerHorizontal="true" />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Password(enter twice to confirm)"
+                android:id="@+id/textView2"
+                android:textSize="20sp"
+                android:layout_below="@+id/textView6"
+                android:layout_centerHorizontal="true" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/pwText2"
+                android:text="password"
+                android:layout_below="@+id/textView2"
+                android:layout_centerHorizontal="true" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/pwtext1"
+                android:text="password"
+                android:layout_below="@+id/pwText2"
+                android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-772e97fc74b87ba1cd43f7efebb42b303f678290.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-bf9b14226e421ea278e22a353eb5282b96bbd646.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.0-0a11f7335a3696baeb1c209ba4ee6c1aa1cf46e3.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a1b8557ed7f212fb9f2b248af6ed0791be2c2c45.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-92f3360ea0d06122555851827a2eeb743f65289a.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.0-fd2062ec051447941778bc290d1bc32f5647a00f.jar
+C:\Users\Owner\AndroidStudioProjects\Parse-Starter-Project-1.9.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-7edf920e067284488e23c1495d61238b642d644e.jar
